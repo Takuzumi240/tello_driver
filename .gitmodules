@@ -1,3 +1,4 @@
 [submodule "src/TelloPy"]
 	path = src/TelloPy
-	url = https://github.com/Takuzumi240/TelloPy.git
+	url = git@github.com:Takuzumi240/TelloPy.git
+	branch = tello_ros
